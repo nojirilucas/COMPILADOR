@@ -1,0 +1,8 @@
+int main() {
+    int valor = 10 + 20;
+    real saldo = 150.75;
+    char inicial = 'J';
+    printf("Teste");
+    valor = valor + 5;
+    return 0;
+}
